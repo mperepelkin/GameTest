@@ -1,0 +1,11 @@
+Debug/*
+Release/*
+*.suo
+*.ncb
+*.obj
+*.idb
+*.pdb
+*.dep
+BuildLog.htm
+*.manifest
+*.user
